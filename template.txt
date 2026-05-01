@@ -1,0 +1,8 @@
+Hello {{name}},
+
+This is a test email sent using my Bulk Email Sender project.
+
+I hope you are doing well!
+
+Regards,  
+Hitarth
