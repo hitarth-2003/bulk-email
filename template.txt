@@ -1,8 +1,10 @@
-Hello {{name}},
+Hi {{name}},
 
-This is a test email sent using my Bulk Email Sender project.
+I came across your profile and wanted to quickly connect.
 
-I hope you are doing well!
+I’m currently working on a small project around email automation and testing how it works in real scenarios.
 
-Regards,  
-Hitarth 
+Would love to know if this reached your inbox or spam 🙂
+
+Thanks,
+Hitarth
